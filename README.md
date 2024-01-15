@@ -1,3 +1,9 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/2e58ajtgdjktlmpq/branch/master?svg=true)](https://ci.appveyor.com/project/CarolineFell/ahj-homeworks-http/branch/master)
+## Working result
+https://nmovchanskaya.github.io/ahj-homeworks-http-frontend/
 
-https://carolinefell.github.io/ahj-homeworks-http/
+## Task
+This application implements the following functionality:
+
+# Build status
+
+[![Build status](https://ci.appveyor.com/api/projects/status/3iaaf00pwcd7c72q?svg=true)](https://ci.appveyor.com/project/nmovchanskaya/ahj-homeworks-http-frontend)
